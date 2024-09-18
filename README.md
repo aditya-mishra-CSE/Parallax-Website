@@ -32,4 +32,4 @@ This property enables us to maintain the correct aspect ratio and ensure our med
 
 Stay tuned for more exciting projects 
 
-hashtag#webdevelopment hashtag#parallaxwebsite hashtag#codehelp hashtag#webdesign hashtag#frontenddevelopment hashtag#webdev hashtag#html hashtag#css hashtag#coding hashtag#webdeveloper hashtag#webdesigner hashtag#showcase
+#webdevelopment #parallaxwebsite #codehelp #webdesign #frontenddevelopment #webdev #html #css #coding #webdeveloper 
